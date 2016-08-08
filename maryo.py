@@ -9,6 +9,7 @@ pygame.init()
 
 window_height=600 
 window_width=1200
+#learning git
 
 blue = (0,0,255)
 black = (0,0,0)
